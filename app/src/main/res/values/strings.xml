@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Balik Deui</string>
+    <string name="title_home">Home</string>
+    <string name="title_info">Info</string>
+    <string name="title_about">About</string>
+    <string name="balik_deui_kab_bekasi">Balik Deui Kab. Bekasi</string>
+    <string name="tentang_balik_deui">Aplikasi yang dinamakan Balik Deui ini adalah hasil kolaborasi antara Balitbang Kab. Bekasi dengan SMKN 2 Cikarang Barat.</string>
+    <string name="edit_profile">edit profile</string>
+    <string name="masukkan_email">Masukkan Email</string>
+    <string name="masukkan_password">Masukkan Password</string>
+    <string name="ubah">ubah</string>
+    <string name="masukkan_no_telp">Masukkan No Telp</string>
+    <string name="masukkan_nama_dinas">Masukkan Nama Dinas</string>
+    <string name="masukkan_alamat_tinggal">Masukkan Alamat Tinggal</string>
+</resources>
